@@ -51,7 +51,7 @@ class Education extends Component {
                                             </article>
                                         </ScrollAnimation>
 
-                                        <ScrollAnimation offset={0} animateIn="fadeInLeft" duration={2.4} animateOnce={true} initiallyVisible={true}>
+                                        {/* <ScrollAnimation offset={0} animateIn="fadeInLeft" duration={2.4} animateOnce={true} initiallyVisible={true}>
                                             <article>
                                                 <div className={`${classes.timeline_icon} ${classes.timeline_icon_4}`} >
                                                     <MdWork />
@@ -62,7 +62,7 @@ class Education extends Component {
                                                 </div>
                                                 <div className={classes.timeline_entry_inner}><div className={classes.timeline_icon_3 || classes.color_none}></div></div>
                                             </article>
-                                        </ScrollAnimation>
+                                        </ScrollAnimation> */}
                                     </div>
                                 </div>
                             </div>

@@ -26,7 +26,7 @@ class Sidebar extends Component {
 
                 <div className="flip-card-back">
                     <ul className="sidebar-nav">
-                        <li className="sidebar-nav-icons"> <a href="https://github.com/DeveloperShubhamKapoor" rel="opener noreferrer" target="_blank" className="fa fas fa-github fa-lg"></a></li>
+                        <li className="sidebar-nav-icons"> <a href="https://github.com/DeveloperShubhamKapoor/portfolioDeveloperShubhamKapoor" rel="opener noreferrer" target="_blank" className="fa fas fa-github fa-lg"></a></li>
                         <li className="sidebar-nav-icons"><a href="https://www.linkedin.com/in/devshubhamkapoor/" rel="opener noreferrer" target="_blank" className="fa fas fa-linkedin fa-lg"></a></li>
                         {/* <li className="sidebar-nav-icons"> <a href="https://twitter.com/Sachin_Mittal98" rel="opener noreferrer" target="_blank" className="fa fas fa-twitter fa-lg"></a></li> */}
                         {/* <li className="sidebar-nav-icons"> <a href="https://www.instagram.com/decent_sachin.mittal/" rel="opener noreferrer" target="_blank" className="fa fas fa-instagram fa-lg"></a></li> */}

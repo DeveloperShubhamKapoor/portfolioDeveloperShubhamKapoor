@@ -26,7 +26,7 @@ class Interest extends Component {
             <ScrollAnimation offset={0} animateIn="fadeInLeft" duration={2.4} animateOnce={true} initiallyVisible={true}>
               <div className={classes.other}>
                 <h3>Other's Interest</h3>
-                <p>With fast fingers for programming I also have fast hands.<br />Badminton,Boxing and MMA are my other feilds of intrest.</p>
+                <p>With fast fingers for programming I also have fast hands.<br />Badminton,Boxing and MMA are my other fields of intrest.</p>
               </div>
             </ScrollAnimation>
           </div>
